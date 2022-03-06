@@ -42,7 +42,7 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amal-ser/Amal_ser.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrvickyser/Amal_ser.git)
 
 
 
